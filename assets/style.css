@@ -1,0 +1,33 @@
+#nav-logo {
+  display: flex;
+}
+#nav-logo img {
+  max-height: 1rem;
+  margin-right: 1rem;
+}
+#main-img {
+  background-image: url('/assets/logo-big.png');
+  background-position: center;
+  min-height: 30vh;
+  background-size: cover;
+}
+#main-img h2 {
+  color: #08f;
+}
+#img-1 {
+  background-image: url('/assets/coding2.jpg');
+  background-position: center;
+  min-height: 40vh;
+  background-size: auto;
+}
+#img-2 {
+  background-image: url('/assets/coding2.jpg');
+  background-position: center;
+  min-height: 40vh;
+  background-size: auto;
+}
+.articles {
+  justify-content: center;
+  display: flex;
+  padding-top: 10px;
+}
